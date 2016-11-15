@@ -7,4 +7,4 @@
 ->A file with large data sets can be browsed from the windows explorer dialog and sent over the network from one system to the other.
 ->The network for connection is basically a wi-fi network or an ethernet network.
 ->The graphical user interface has been created using java swing components and abstract windows toolkit.
-->User Datagram protocol is used to end the data as packets.
+->User Datagram protocol is used to send the data as packets.
