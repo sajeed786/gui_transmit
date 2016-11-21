@@ -1,1 +1,9 @@
-# Detailed explanation..
+#The Skeletal Structure of the project..
+This branch will contain three parts of the source code behind the project.
+1.A separate class named student will contain different types of data that are to be transmitted as an object.Here the concept of obect serialization is to be used.
+2.The next part contains reading data from a file, wrapping the data set as an object of class student and sending it over a network to a host computer whose ip address is known.
+  All lines of the file are sent by implementing a timer function in java with a user-defined delay in transmission between the lines of the file.
+3.The last part contains structure of the graphical user interface and the functionality of all elements of the GUI.
+NOTE: The source code will be contained in the first two parts only.Infact, the code for each element of the gui will also be included in the second part.The third part will 
+      contain the explanation. For all the three parts files will be uploaded separately. The program in the first part has to be executed followed by the second one.
+ 
