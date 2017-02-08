@@ -1,5 +1,5 @@
 # gui_transmit
-Data transfer using a graphical user interface
+Data transfer using a graphical user interface.
 In the gui.png image file let us look at the functionalities of the following elements.
 1.start button-used to start the transfer of a file from the starting line.
 2.stop button-used to abort the transmission of file and again the file will be read from the beginning.
